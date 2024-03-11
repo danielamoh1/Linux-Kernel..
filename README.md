@@ -11,6 +11,8 @@ Little overview of my experience with the linux Kernel 🐧⚙️🛠💻
 **Introducing LXR**: The Linux Cross Reference (LXR) became an invaluable tool. Commands like `grep` through source code directories couldn't compare to LXR's ability to navigate the kernel's vast codebase.
 **System Call Interface**: Understanding system calls bridged my knowledge between user applications and kernel operations. Practicing with `strace` showed me how applications interact with the kernel.
 
+![photo_2024-03-10_22-19-10](https://github.com/danielamoh1/Linux-Kernel../assets/160555417/b51eb871-089b-48b9-8198-3bb4eb6c0fcd)
+
 ### Processes
 **Process data structures**: I explored `/proc` to understand the anatomy of a process, using commands like `cat /proc/<pid>/status` to peek into process details.
 **The /proc File System**: This virtual file system became my window into the kernel's view of the system, with `ls /proc` and `cat /proc/cpuinfo` being frequent queries.
