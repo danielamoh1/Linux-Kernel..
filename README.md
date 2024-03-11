@@ -1,6 +1,8 @@
 # Linux-Kernel..
 
-Embarking on a journey through the Linux kernel is akin to navigating a vast, uncharted territory filled with intricacies and wonders. My adventure into this realm, both at home and professionally, has been a tale of discovery, challenges, and continuous learning. Here's my story, addressing every bullet, infused with experiences and commands that have been my companions along the way.
+![Data-Integration](https://github.com/danielamoh1/Linux-Kernel../assets/160555417/35f9d4cf-f42a-4c6e-b8b1-aa78d24a9224)
+
+Little overview of my experience with the linux Kernel 🐧⚙️🛠💻
 
 ### Linux Kernel Overview
 **Diagram of Linux subsystems**: I started with pen and paper, sketching diagrams from documentation and online resources, trying to visualize how each subsystem interacts within the kernel.
